@@ -1,11 +1,11 @@
-Each problem set will consist of an **independent** and a **collaborative** phase:  
+Each independent problem (IP) set will consist of an **independent** and a **collaborative** phase:  
 <br>
 <center>
 
 | PHASE | RULES |
 | :---: | :--- |
-| Independent | You will have 2 1/2 hours to independently work out solutions to a small set of problems. You are not authorized to discuss the problems with peers. You may refer to your own notes and your previous work in the course, and you may ask the professor for clarity, but you may not discuss the problems with anyone else.  |  
-| Collaborative | You will have an additional two days to finish solving the problems. Your final solutions are due the first Thursday by 5pm. You are authorized and encouraged to talk with instructors or peers in the class. |  
+| Independent | You will have class time to independently work out solutions to 1 (Tuesday meeting ) or 2 problems (Wednesday meeting). You are not authorized to discuss the problems with peers. You may refer to your own notes and your previous work in the course, and you may ask the professor for clarity, but you may not discuss the problems with anyone else.  |  
+| Collaborative | After the class meeting, you will have additional time to finish solving the problems and correcting any mistakes in your first submission. Your final solutions are due the first Friday by 5pm. You are authorized and encouraged to talk with instructors or peers in the class. |  
 
 </center>
 <br>

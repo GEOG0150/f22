@@ -10,13 +10,11 @@ Please note that by signing this honor code, **you pledge to follow the authoriz
 
 ## Independent phase
 
-You will have 2.5 hours to independently solve and submit solutions to three problems. You must submit separate links to each script in the problem set dropbox (this will be demonstrated at the beginning of the problem set).
+You will have the class meeting time to independently solve and submit solutions to the problem(s). You must submit separate links to each script in the problem set dropbox (this will be demonstrated at the beginning of the problem set).
 
 We will start the clock after we have read through the problems together and I have answered any questions.  
 
 While you work on a problem set, you are authorized to refer to the eePrimer repository, the scripts that you have written previously in this class, and your notes from lecture meetings.  
-
-You are authorized to communicate with Jeff Howarth while you work on this problem set for questions about clarity and/or language in the problem descriptions. There will be a zoom room open throughout the independent phase and you may join at any time.     
 
 Otherwise, during the independent phase, you are not authorized to communicate in any way with anyone about the problem set.  
 
