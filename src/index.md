@@ -25,9 +25,9 @@ deburt@middlebury.edu
 
 | DAY | TIME | LOCATION |  
 | :---: | :--- | :--- |
-| Tue | 09:30 - 11:15 am | MBH 219 |  
+| Tue | 09:30 - 10:45 am | MBH 219 |  
 | Wed | 01:30 - 04:15 pm | MBH 219 |  
-| Thu | 09:30 - 11:15 am | MBH 219 |
+| Thu | 09:30 - 10:45 am | MBH 219 |
 
 
 ### Office hours  
