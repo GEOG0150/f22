@@ -2,10 +2,7 @@
 
 # Mapping Global Environmental Change
 ### *Geography/Environmental Studies 150*<br>*Fall 2022*  
-<br>
-WORKING SYLLABUS<br>
-_Please note that I will continue to tinker with this syllabus until 9/12/22)._
-<br>
+
 ![Changes in lights at night](https://geography.middlebury.edu/GEOG0150/images/koreaStrait.png)  
 
 __Jeff Howarth__  

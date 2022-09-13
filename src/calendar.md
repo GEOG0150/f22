@@ -1,4 +1,4 @@
-The schedule below outlines dates, topics, objectives, and applications (or case studies that we will investigate). Most weeks follow a three-part sequence:  
+The schedule below outlines dates, topics, objectives, and materials. Most weeks follow a three-part sequence:  
 
 1. introduce concepts,    
 2. practice applying the concepts with Google Earth Engine,
@@ -10,17 +10,17 @@ _Please note: I will update this calendar regularly with links to materials for 
 
 <br>
 
-| DATE | TOPICS | OBJECTIVES | APPLICATIONS |  
+| DATE | TOPICS | OBJECTIVES | MATERIALS |  
 |:---:|:---| :--- | :--- |  
 | |
 | PART 1.| GEOGRAPHIC FOUNDATIONS | _Part 1 of the course introduces fundamental concepts and methods of working with geographic information._ |
-| 0913| MAPS AND GEOMETRIES | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, the vector data model for geographic data, and methods to filter vector features by attribute and location._ | Fukushima nuclear disaster, protected areas of the world |  
-| 0914 | Practice problems |
+| 0913| CARTOGRAPHIC ROOTS | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, and geometry and feature objects._ | [eePrimer: Getting started with GEE](https://jeffhowarth.github.io/eeprimer/){target=_blank} |  
+| 0914 | Practice problems | | [eePrimer: Cartographic Roots](https://jeffhowarth.github.io/eeprimer/code/00/javaScript101/){target=_blank} |
 | 0915 | Discussion and review problems |
-| 0920 | WORKING WITH IMAGES | _Introduces the raster data model, methods to filter bands, images, and image collections, and methods to visualize these datasets on a map with colors._ | Global nighttime lights |   
+| 0920 | WORKING WITH FEATURES | _Introduces vector data analysis, including methods to filter feature collections by attribute and location and visualize map layers._ |  
 | 0921 | Practice problems |
 | 0922| Discussion and review problems |
-| 0923 | RASTER ANALYSIS | _Introduces methods for applying criteria and making spatial comparisons, including thresholds, map algebra, and zonal statistics._ |  
+| 0923 | WORKING WITH IMAGES | _Introduces the raster data model, methods to filter and reduce data by attributes and location and methods to visualize these datasets on a map with colors._ | |  
 | 0928| Practice problems |
 | 0929| Discussion and review problems |
 | <mark>1004</mark> |  IP 1 (problem 1) |  
