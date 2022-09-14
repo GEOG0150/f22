@@ -15,7 +15,8 @@ jhowarth@middlebury.edu
 
 __Derrick Burt__    
 _Assistant in Science Instruction_  
-deburt@middlebury.edu  
+deburt@middlebury.edu
+[zoom](https://middlebury.zoom.us/j/8496710575?pwd=TjNGWnZIemZDalh4Z1Q2N3NtTVFZdz09){target=_blank}  
 <br>  
 
 ### Class meetings
@@ -32,4 +33,6 @@ deburt@middlebury.edu
 | WHO | DAY | TIME | LOCATION |  
 | :---: | :---: | :--- | :--- |
 | Jeff | Tue | 12:30 - 2:00 pm | MBH 635 |
-| Jeff | Wed | 11:30 - 1:00 pm | MBH 635 |  
+| Jeff | Wed | 11:30 - 1:00 pm | MBH 635 |
+| Derrick | Wed | 10:30 - 11:30 am | MBH 642 |  
+| Derrick | Thus | 12:00 - 2:00 pm | MBH 642 |
