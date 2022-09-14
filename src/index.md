@@ -15,7 +15,7 @@ jhowarth@middlebury.edu
 
 __Derrick Burt__    
 _Assistant in Science Instruction_  
-deburt@middlebury.edu
+deburt@middlebury.edu  
 [zoom](https://middlebury.zoom.us/j/8496710575?pwd=TjNGWnZIemZDalh4Z1Q2N3NtTVFZdz09){target=_blank}  
 <br>  
 
