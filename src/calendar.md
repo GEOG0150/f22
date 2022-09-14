@@ -1,10 +1,4 @@
-The schedule below outlines dates, topics, objectives, and materials. Most weeks follow a three-part sequence:  
-
-1. introduce concepts,    
-2. practice applying the concepts with Google Earth Engine,
-3. discuss results and complete review problems.  
-
-We break from this pattern three times over the semester when you work on problems independently. These dates are <mark>highlighted</mark> on the schedule.
+Independent problems are <mark>highlighted</mark> on the schedule.
 
 _Please note: I will update this calendar regularly with links to materials for each meeting._
 
@@ -14,8 +8,8 @@ _Please note: I will update this calendar regularly with links to materials for 
 |:---:|:---| :--- | :--- |  
 | |
 | PART 1.| GEOGRAPHIC FOUNDATIONS | _Part 1 of the course introduces fundamental concepts and methods of working with geographic information._ |
-| 0913| CARTOGRAPHIC ROOTS | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, and geometry and feature objects._ | [eePrimer: Getting started with GEE](https://jeffhowarth.github.io/eeprimer/){target=_blank} |  
-| 0914 | Practice problems | | [eePrimer: Cartographic Roots](https://jeffhowarth.github.io/eeprimer/code/00/javaScript101/){target=_blank} |
+| 0913| CARTOGRAPHIC ROOTS | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, and geometry and feature objects._ | [Getting started with GEE](https://jeffhowarth.github.io/eeprimer/){target=_blank} |  
+| 0914 | Practice problems | | [CODE](https://jeffhowarth.github.io/eeprimer/code/01/getMapCenter/){target=_blank} <br>[APPLY](https://jeffhowarth.github.io/eeprimer/apply/01/longest_haul/){target=_blank} |
 | 0915 | Discussion and review problems |
 | 0920 | WORKING WITH FEATURES | _Introduces vector data analysis, including methods to filter feature collections by attribute and location and visualize map layers._ |  
 | 0921 | Practice problems |
