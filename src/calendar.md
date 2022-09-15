@@ -10,7 +10,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | PART 1.| GEOGRAPHIC FOUNDATIONS | _Part 1 of the course introduces fundamental concepts and methods of working with geographic information._ |
 | 0913| CARTOGRAPHIC ROOTS | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, and geometry and feature objects._ | [Getting started with GEE](https://jeffhowarth.github.io/eeprimer/){target=_blank} |  
 | 0914 | Practice problems | | [CODE](https://jeffhowarth.github.io/eeprimer/code/01/getMapCenter/){target=_blank} <br>[APPLY](https://jeffhowarth.github.io/eeprimer/apply/01/longest_haul/){target=_blank} |
-| 0915 | Discussion and review problems |
+| 0915 | Discussion and review problems | | [Discussion](https://jeffhowarth.github.io/eeprimer/apply/01/discussion/){target=_blank} <br>Solution <br> [CONCEPTS](https://jeffhowarth.github.io/eeprimer/concepts/01/geographic_framework/){target=_blank} |
 | 0920 | WORKING WITH FEATURES | _Introduces vector data analysis, including methods to filter feature collections by attribute and location and visualize map layers._ |  
 | 0921 | Practice problems |
 | 0922| Discussion and review problems |
