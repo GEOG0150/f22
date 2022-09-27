@@ -14,7 +14,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 0920 | WORKING WITH FEATURES | _Introduces vector data analysis, including methods to filter feature collections by attribute and location._ | [APPLY](https://jeffhowarth.github.io/eeprimer/02/apply/corridor_easement_list/){target=_blank}<br>[CODE](https://jeffhowarth.github.io/eeprimer/02/code/starter_coords/){target=_blank} |
 | 0921 | Practice problem | | [starter script](https://jeffhowarth.github.io/eeprimer/02/apply/starter_script/){target=_blank}<br> |
 | 0922| Discussion and review problems |
-| 0923 | WORKING WITH IMAGES | _Introduces the raster data model, methods to filter and reduce data by attributes and location and methods to visualize these datasets on a map with colors._ | |  
+| 0923 | WORKING WITH RASTERS | _Introduces the raster data model, map algebra, and methods to visualize with colors._ | [APPLY](https://jeffhowarth.github.io/eeprimer/03/apply/protected_lands/){target=_blank} | 
 | 0928| Practice problems |
 | 0929| Discussion and review problems |
 | <mark>1004</mark> |  IP 1 (problem 1) |  
