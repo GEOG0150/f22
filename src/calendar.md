@@ -9,12 +9,12 @@ _Please note: I will update this calendar regularly with links to materials for 
 | |
 | PART 1.| GEOGRAPHIC FOUNDATIONS | _Part 1 of the course introduces fundamental concepts and methods of working with geographic information._ |
 | 0913| CARTOGRAPHIC ROOTS | _Introduces Google Earth Engine's Code Editor, the Mercator map projection, and geometry and feature objects._ | [Getting started with GEE](https://jeffhowarth.github.io/eeprimer/){target=_blank} |  
-| 0914 | Practice problems | | [CODE](https://jeffhowarth.github.io/eeprimer/code/01/getMapCenter/){target=_blank} <br>[APPLY](https://jeffhowarth.github.io/eeprimer/apply/01/longest_haul/){target=_blank} |
-| 0915 | Discussion and review problems | | [Discussion](https://jeffhowarth.github.io/eeprimer/apply/01/discussion/){target=_blank} <br>Solution <br> [CONCEPTS](https://jeffhowarth.github.io/eeprimer/concepts/01/geographic_framework/){target=_blank} |
+| 0914 | Practice problems | | [CODE](https://jeffhowarth.github.io/eeprimer/01/code/getMapCenter/){target=_blank} <br>[APPLY](https://jeffhowarth.github.io/eeprimer/01/apply/longest_haul//){target=_blank} |
+| 0915 | Discussion and review problems | | [Discussion](https://jeffhowarth.github.io/eeprimer/01/apply/discussion/){target=_blank} <br>Solution <br> [CONCEPTS](https://jeffhowarth.github.io/eeprimer/01/concepts/geographic_framework/){target=_blank} |
 | 0920 | WORKING WITH FEATURES | _Introduces vector data analysis, including methods to filter feature collections by attribute and location._ | [APPLY](https://jeffhowarth.github.io/eeprimer/02/apply/corridor_easement_list/){target=_blank}<br>[CODE](https://jeffhowarth.github.io/eeprimer/02/code/starter_coords/){target=_blank} |
 | 0921 | Practice problem | | [starter script](https://jeffhowarth.github.io/eeprimer/02/apply/starter_script/){target=_blank}<br> |
 | 0922| Discussion and review problems |
-| 0923 | WORKING WITH RASTERS | _Introduces the raster data model, map algebra, and methods to visualize with colors._ | [APPLY](https://jeffhowarth.github.io/eeprimer/03/apply/protected_lands/){target=_blank} | 
+| 0923 | WORKING WITH RASTERS | _Introduces the raster data model, map algebra, and methods to visualize with colors._ | [APPLY](https://jeffhowarth.github.io/eeprimer/03/apply/protected_lands/){target=_blank} |
 | 0928| Practice problems |
 | 0929| Discussion and review problems |
 | <mark>1004</mark> |  IP 1 (problem 1) |  
