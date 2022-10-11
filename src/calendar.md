@@ -21,8 +21,8 @@ _Please note: I will update this calendar regularly with links to materials for 
 | <mark>1005</mark>|  IP 1 (problems 2 & 3) |
 | 1006 | Problem set discussion |
 | |
-| PART 2| ENVIRONMENTAL ANALYSIS | _Part 2 of the course applies geographic concepts and methods from the first part of the course to the analysis of global and regional environmental datasets._ |   
-| 1011 | GLOBAL OCEANS |
+| PART 2| ENVIRONMENTAL ANALYSES | _Part 2 of the course applies geographic concepts and methods from the first part of the course to the analysis of global and regional environmental datasets._ |   
+| 1011 | GLOBAL OCEANS | | [APPLY](https://jeffhowarth.github.io/eeprimer/04/apply/global_oceans/){target=_blank} |
 | 1012 | Practice problems | |
 | 1013 | Discussion and review problems |
 | 1018 | GLOBAL LAND SURFACE TEMPERATURE |  
