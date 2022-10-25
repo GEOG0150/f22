@@ -28,7 +28,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1018 | WORKING WITH COLLECTIONS OF SCENES |  | [Land surface temperature][1018]{target=_blank} |
 | 1019 | Practice problems | |
 | 1020 | Discuss and review |
-| 1025 | GLOBAL LAND COVER |
+| 1025 | WORKING WITH COLOR COMPOSITES | | [Changes in the night][1025]{target=_blank}<br><br>[Natural and false color][1025b]{target+-blank} |
 | 1026 | Practice problems |   
 | 1027 | Discuss and review |
 | <mark>1101</mark> | IP 2 (problem 1) |
@@ -63,3 +63,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 [1011]: https://jeffhowarth.github.io/eeprimer/lessons/ic/global_oceans/  
 
 [1018]: https://jeffhowarth.github.io/eeprimer/lessons/ic/lst/
+
+[1025]: https://jeffhowarth.github.io/eeprimer/lessons/ic/changes_in_the_night/
+
+[1025b]: https://jeffhowarth.github.io/eeprimer/lessons/ic/natural_false_color/
