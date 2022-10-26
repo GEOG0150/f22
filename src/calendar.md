@@ -16,7 +16,8 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 0922| Discuss and review |
 | 0927 | WORKING WITH RASTERS | _Introduces the raster data model, map algebra, and methods to visualize with colors._ | [Area-based conservation goals at town scale][0927]{target=_blank} |
 | 0928| Practice problems | |  |
-| 0929| Discussion | | |
+| 0929| Discussion | | |  
+|     | INDEPENDENT PROBLEMS |
 | <mark>1004</mark> |  IP 1 (problem 1) |  
 | <mark>1005</mark>|  IP 1 (problems 2 & 3) |
 | 1006 | Problem set discussion |
@@ -28,9 +29,10 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1018 | WORKING WITH COLLECTIONS OF SCENES |  | [Land surface temperature][1018]{target=_blank} |
 | 1019 | Practice problems | |
 | 1020 | Discuss and review |
-| 1025 | WORKING WITH COLOR COMPOSITES | | [Changes in the night][1025]{target=_blank}<br><br>[Natural and false color][1025b]{target+-blank} |
-| 1026 | Practice problems |   
+| 1025 | WORKING WITH COLOR COMPOSITES | | [Changes in the night][1025]{target=_blank}<br><br>[Natural and false color][1025b]{target=_blank} |
+| 1026 | Practice problems | | [Compare OLS with L5][1026]{target=_blank} |
 | 1027 | Discuss and review |
+|     | INDEPENDENT PROBLEMS |
 | <mark>1101</mark> | IP 2 (problem 1) |
 | <mark>1102</mark> | IP 2 (problems 2 & 3))|
 | 1103 | Independent problem set discussion  |  
@@ -48,22 +50,25 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1129 | SPECTRAL INDICES |
 | 1130 | Practice problems |
 | 1201 | Discuss and review |
+|     | INDEPENDENT PROBLEMS | 
 | <mark>1206</mark> | IP 3 (problem 1) |
 | <mark>1207</mark> | IP 3 (problem 2 & 3) |
 | 1208 | Independent problem set discussion |
 
 [0913]: https://jeffhowarth.github.io/eeprimer/00/code/account/
 
-[0914]: https://jeffhowarth.github.io/eeprimer/lessons/cart_roots/longest_haul/
+[0914]: https://jeffhowarth.github.io/eeprimer/lessons/longest_haul/
 
-[0920]: https://jeffhowarth.github.io/eeprimer/lessons/vector/corridor_easement_list/  
+[0920]: https://jeffhowarth.github.io/eeprimer/lessons/corridor_easement_list/  
 
-[0927]: https://jeffhowarth.github.io/eeprimer/lessons/raster/protected_lands/  
+[0927]: https://jeffhowarth.github.io/eeprimer/lessons/protected_lands/
 
-[1011]: https://jeffhowarth.github.io/eeprimer/lessons/ic/global_oceans/  
+[1011]: https://jeffhowarth.github.io/eeprimer/lessons/global_oceans/   
 
-[1018]: https://jeffhowarth.github.io/eeprimer/lessons/ic/lst/
+[1018]: https://jeffhowarth.github.io/eeprimer/lessons/lst/
 
-[1025]: https://jeffhowarth.github.io/eeprimer/lessons/ic/changes_in_the_night/
+[1025]: https://jeffhowarth.github.io/eeprimer/lessons/changes_in_the_night/
 
-[1025b]: https://jeffhowarth.github.io/eeprimer/lessons/ic/natural_false_color/
+[1025b]: https://jeffhowarth.github.io/eeprimer/lessons/natural_false_color/
+
+[1026]: https://jeffhowarth.github.io/eeprimer/lessons/compare_ols_L5/
