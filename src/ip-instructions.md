@@ -22,11 +22,12 @@ When you are ready to submit your solutions, you will copy and paste url links f
 
 ### Dropbox
 
-Please open this [**DROPBOX**](https://forms.gle/kxTYu5433coD4J7v6).  
+Each problem has a separate dropbox.  
 
-In the appropriate places, please write your email address, the honor code, and your name. When you have finished a problem, please **copy and paste a url to the script** in the form for the problem.  
+In the appropriate places, please write your email address, the honor code, and your name. When you have finished a problem:  
 
-Please note: the form contains places to paste a link to all three problems. On Tue, please submit the form with the solution for Problem 1 and leave the answers for Problems 2 and 3 blank. On Wed, please submit the form with solutions for Problem 2 and 3 and leave the answers for Problem 1 blank.      
+1. please **copy and paste the entire number printed to console** for the appropriate checkpoints,  
+2. please also **copy and paste a url to the script**.    
 
 ### How to generate a link to your script
 
@@ -43,13 +44,11 @@ Please copy the url and then paste it into the appropriate section of the form.
 
 Before the clock runs out please click the **Submit** button.     
 
-You will automatically receive a copy of your submission to the email account that you provided.  
+After a quick manual review, you will receive a copy of the form with the checkpoints 'graded'. You are welcome to discuss this feedback with an instructor or peer (as long as they have completed this portion of the ip) once you received the feedback.    
 
 _Please note that the Get Link url creates a snapshot of your script. If you make any changes to your code after creating the url, I will not be able to see them. I only see the state of your script when you click the Get Link button. This means that you can continue to work on the script after submitting your first solutions and do not need to create new javaScript files to work on the next phase._  
 
-### Problems  
-
-_Links will become available during first and second phases._    
+### Problems    
 
 - Problem 1
 - Problem 2
