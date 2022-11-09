@@ -38,19 +38,19 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1103 | Independent problem set discussion  |  
 | |
 | PART 3 | SPECTRAL IMAGES | _Part 3 of the course explores spectral datasets that measure the reflectance of light and methods for deriving environmental variables from them._
-| 1108 | VISUALIZING SPECTRAL SIGNATURES |
-| 1109 | Practice problems |
-| 1110 | Discuss and review |
-| 1115 | WORKING WITH IMAGE DATASETS | |  |
+| 1108 | VISUALIZING CHANGE |
+| 1109 | Practice problems | | [Seaside town in the desert][1109]{target=_blank} |
+| 1110 | Spectral signatures |
+| 1115 | SPECTRAL INDICES  | |  |
 | 1116| Practice problems |
 | 1117 | Discuss and review |
 | 1122 | :maple_leaf: |
 | 1123 | :corn: |
 | 1024 | :turkey: |
-| 1129 | SPECTRAL INDICES |
+| 1129 | LAND COVER CHANGE |
 | 1130 | Practice problems |
 | 1201 | Discuss and review |
-|     | INDEPENDENT PROBLEMS | 
+|     | INDEPENDENT PROBLEMS |
 | <mark>1206</mark> | IP 3 (problem 1) |
 | <mark>1207</mark> | IP 3 (problem 2 & 3) |
 | 1208 | Independent problem set discussion |
@@ -72,3 +72,5 @@ _Please note: I will update this calendar regularly with links to materials for 
 [1025b]: https://jeffhowarth.github.io/eeprimer/lessons/natural_false_color/
 
 [1026]: https://jeffhowarth.github.io/eeprimer/lessons/compare_ols_L5/
+
+[1109]: https://jeffhowarth.github.io/eeprimer/lessons/seaside_town_in_the_desert/
