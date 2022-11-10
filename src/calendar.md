@@ -40,7 +40,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | PART 3 | SPECTRAL IMAGES | _Part 3 of the course explores spectral datasets that measure the reflectance of light and methods for deriving environmental variables from them._
 | 1108 | VISUALIZING CHANGE |
 | 1109 | Practice problems | | [Seaside town in the desert][1109]{target=_blank} |
-| 1110 | Spectral signatures |
+| 1110 | Spectral signatures | | [Spectral signature scavenger hunt][1110]{target=_blank} |
 | 1115 | SPECTRAL INDICES  | |  |
 | 1116| Practice problems |
 | 1117 | Discuss and review |
@@ -74,3 +74,5 @@ _Please note: I will update this calendar regularly with links to materials for 
 [1026]: https://jeffhowarth.github.io/eeprimer/lessons/compare_ols_L5/
 
 [1109]: https://jeffhowarth.github.io/eeprimer/lessons/seaside_town_in_the_desert/
+
+[1110]: https://jeffhowarth.github.io/eeprimer/lessons/spectral_signatures/ 
