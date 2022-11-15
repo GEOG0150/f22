@@ -41,7 +41,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1108 | VISUALIZING CHANGE |
 | 1109 | Practice problems | | [Seaside town in the desert][1109]{target=_blank} |
 | 1110 | Spectral signatures | | [Spectral signature scavenger hunt][1110]{target=_blank} |
-| 1115 | SPECTRAL INDICES  | |  |
+| 1115 | SPECTRAL INDICES  | | [A world on fire][1115]{target=_blank} |
 | 1116| Practice problems |
 | 1117 | Discuss and review |
 | 1122 | :maple_leaf: |
@@ -75,4 +75,6 @@ _Please note: I will update this calendar regularly with links to materials for 
 
 [1109]: https://jeffhowarth.github.io/eeprimer/lessons/seaside_town_in_the_desert/
 
-[1110]: https://jeffhowarth.github.io/eeprimer/lessons/spectral_signatures/ 
+[1110]: https://jeffhowarth.github.io/eeprimer/lessons/spectral_signatures/
+
+[1115]: https://jeffhowarth.github.io/eeprimer/lessons/global_fires/  
