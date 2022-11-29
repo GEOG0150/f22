@@ -47,7 +47,7 @@ _Please note: I will update this calendar regularly with links to materials for 
 | 1122 | :maple_leaf: |
 | 1123 | :corn: |
 | 1024 | :turkey: |
-| 1129 | LAND COVER CHANGE |
+| 1129 | (M)APP DESIGN | | [Global forest loss][1129]{target=_blank} |
 | 1130 | Practice problems |
 | 1201 | Discuss and review |
 |     | INDEPENDENT PROBLEMS |
@@ -78,3 +78,5 @@ _Please note: I will update this calendar regularly with links to materials for 
 [1110]: https://jeffhowarth.github.io/eeprimer/lessons/spectral_signatures/
 
 [1115]: https://jeffhowarth.github.io/eeprimer/lessons/global_fires/  
+
+[1129]: https://jeffhowarth.github.io/eeprimer/lessons/global_forest_loss/
